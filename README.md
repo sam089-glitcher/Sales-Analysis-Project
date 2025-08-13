@@ -1,5 +1,7 @@
 # Sales Data Analysis Project - Walmart Dataset
-[![Open in Streamlit](https://sales-analysis-project-esfpqfmbmpkcldbqpcnzmx.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-analysis-project-esfpqfmbmpkcldbqpcnzmx.streamlit.app/)
+
 ## Project Overview
 This project analyzes Walmart sales data to identify trends, seasonality, and product performance patterns using SQL queries and data analysis techniques.
 
